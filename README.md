@@ -54,7 +54,7 @@ Both PDF files were provided by the course instructor as lab exercises. All pass
 
 ### 4.2 W3-PM2: Password Cracking with Networkwalks Tools
 
-**Hash extraction.** I opened the Networkwalks Hash Calculator, selected the PDF tab, and uploaded *My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf*. The tool reported that the file was encrypted and returned a hash beginning with `$pdf$4*4*128*-1060*1*16`, with Revision R4, Version V4, and a 128-bit key length (Figure 6). The Hash Calculator states that the PDF is parsed locally and nothing is uploaded.
+**Hash extraction.** I opened the Networkwalks Hash Calculator, selected the PDF tab, and uploaded *My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf*. The tool reported that the file was encrypted and returned a hash beginning with `$pdf$4*4*128*-1060*1*16`, with Revision R4, Version V4, and a 128-bit key length (Figure 6). The Hash Calculator states that the PDF is parsed locally and nothing is uploaded
 
 ![Figure 6: Networkwalks Hash Calculator output](images/fig6-hash-calculator.png)
 *Figure 6: Networkwalks Hash Calculator output*
